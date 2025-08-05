@@ -26,4 +26,13 @@ aside {
   overflow-y: auto; /* vertical scrolling if needed */
   padding: 1rem;
 }
+@media (max-width: 600px) {
+  body.works_on_smartphone main {
+    flex-direction: column;
+  }
+
+  article, aside {
+    width: 100%;
+  }
+}
 
