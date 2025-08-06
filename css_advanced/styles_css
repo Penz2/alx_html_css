@@ -17,6 +17,11 @@ body {
   text-align: center;
   position: relative;
 }
+.hero {
+  background: url("images/background.jpg") center/cover no-repeat;
+  height: 100vh;
+  color: white;
+}
 
 /* NAVIGATION */
 .navbar {
