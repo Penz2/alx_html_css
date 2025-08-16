@@ -2,14 +2,14 @@ body {
 
 }
 nav{
-    background-color: red;
+    background-color: #333;
     padding: 20px;
-    display: flex;
+    display: reverse;
 
 }
 nav a {
     font-size: 20px;
     color: white;
-    text-decoration: none;
+    text-decoration: none;   
     margin: 10px 20px;
 }
