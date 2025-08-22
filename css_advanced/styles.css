@@ -1,4 +1,13 @@
-/*navigation bar */
+:root {
+  --white-color: #FFFFFF;
+  --purple-color: #C271FF;
+  --black-color: #000000;
+  --dark-blue-color: #071629;
+
+}
+  
+  
+  /*navigation bar */
 /* Reset default browser spacing */
 * {
   margin: 0;
